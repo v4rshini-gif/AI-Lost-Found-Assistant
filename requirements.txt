@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose
+passlib[bcrypt]
+python-multipart
+
+sentence-transformers
+faiss-cpu
+open_clip_torch
+torch
+opencv-python
+pillow
+
+python-dotenv
